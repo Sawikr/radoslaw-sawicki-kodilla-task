@@ -10,7 +10,7 @@ public class KodillaNewTaskApplication {
         SpringApplication.run(KodillaNewTaskApplication.class, args);
 
         System.out.println("New data");
-        System.out.println("New commit");
+
 
     }
 }
