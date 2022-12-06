@@ -11,6 +11,6 @@ public class KodillaNewTaskApplication {
 
         System.out.println("New data");
         System.out.println("New commit");
-        System.out.println("New commit");
+
     }
 }
