@@ -11,6 +11,5 @@ public class KodillaNewTaskApplication {
 
         System.out.println("New data");
 
-
     }
 }
